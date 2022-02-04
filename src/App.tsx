@@ -161,7 +161,8 @@ function App() {
           className="underline font-bold"
         >
           Spotify
-        </a> </div> . 
+        </a> </div>
+    
        <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
        
          
