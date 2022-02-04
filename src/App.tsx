@@ -160,7 +160,12 @@ function App() {
           className="underline font-bold"
         >
           Apple Podcasts
-        </a>
+        </a> and  <a
+          href="https://open.spotify.com/show/2wNNps3khlncj8CzMOeSI0?si=d061ef8c3a25450e"
+          className="underline font-bold"
+        >
+          Spotify
+        </a> 
       
       </div>
       <div className="flex w-80 mx-auto items-center mb-8 mt-12">
