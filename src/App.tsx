@@ -149,11 +149,11 @@ function App() {
   }
 
   return (
-     <div className="w-full top-0 py-3 px-3 text-center text-white bg-violet-900">
+    <>
+    <div className="w-full top-0 py-3 px-3 text-center text-white bg-violet-900">
       Brought to you by <a className="underline font-bold" href="https://twitter.com/holyswiftpod" target="_blank" rel="noreferrer">Holy Swift Podcast</a>. Listen today on <a className="underline font-bold" href="https://podcasts.apple.com/us/podcast/holy-swift/id1167867578" target="_blank" rel="noreferrer">Apple Podcasts</a> and <a className="underline font-bold" href="https://open.spotify.com/show/7v7Uok5B0Pat4OtRwHxWbC" target="_blank" rel="noreferrer">Spotify</a>!
     </div>
-    
-    <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
+     <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
       <div className="flex w-80 mx-auto items-center mb-8 mt-12">
         <h1 className="text-xl grow font-bold dark:text-white">{GAME_TITLE}</h1>
         <SunIcon
