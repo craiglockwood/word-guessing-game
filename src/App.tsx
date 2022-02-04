@@ -170,11 +170,11 @@ function App() {
         <SunIcon
           className="h-6 w-6 cursor-pointer dark:stroke-white"
           onClick={() => handleDarkMode(!isDarkMode)}
-        />
+        /> . 
         <InformationCircleIcon
           className="h-6 w-6 cursor-pointer dark:stroke-white"
           onClick={() => setIsInfoModalOpen(true)}
-        />
+        /> . 
         <ChartBarIcon
           className="h-6 w-6 cursor-pointer dark:stroke-white"
           onClick={() => setIsStatsModalOpen(true)}
