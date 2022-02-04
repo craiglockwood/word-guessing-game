@@ -150,7 +150,7 @@ function App() {
 
   return (
      <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
-      <div className="w-full top-0 py-3 px-3 text-center text-white bg-violet-900">Brought to you by the Knife Talk podcast</div>
+      <div className="w-full top-0 py-3 px-3 text-center text-white bg-violet-900">Brought to you by the <a class="underline font-bold" href="https://www.makery.network/knifetalk" target="_blank" rel="noreferrer">Knife Talk podcast</a> - Listen on <a class="underline font-bold" href="https://podcasts.apple.com/gb/podcast/knife-talk/id1225266774" target="_blank" rel="noreferrer">Apple Podcasts</a> and <a class="underline font-bold" href="https://www.makery.network/knifetalk" target="_blank" rel="noreferrer">Knife Talk podcast</a> - Listen on <a class="underline font-bold" href="https://open.spotify.com/show/2wNNps3khlncj8CzMOeSI0?si=1dfeed558a0247b9" target="_blank" rel="noreferrer">Spotify</a></div>
       <div className="flex w-80 mx-auto items-center mb-8 mt-12">
         <h1 className="text-xl grow font-bold dark:text-white">{GAME_TITLE}</h1>
         <SunIcon
