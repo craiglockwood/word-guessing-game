@@ -155,7 +155,14 @@ function App() {
           className="underline font-bold"
         >
           Knife talk podcast
-        </a></div>
+        </a> - Listen on <a
+          href="https://podcasts.apple.com/gb/podcast/knife-talk/id1225266774"
+          className="underline font-bold"
+        >
+          Apple Podcasts
+        </a>
+      
+      </div>
       <div className="flex w-80 mx-auto items-center mb-8 mt-12">
         <h1 className="text-xl grow font-bold dark:text-white">{GAME_TITLE}</h1>
         <SunIcon
