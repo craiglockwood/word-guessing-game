@@ -337,6 +337,7 @@ export const VALIDGUESSES = [
   'annal',
   'annas',
   'annat',
+  'forge',
   'anoas',
   'anole',
   'anomy',
