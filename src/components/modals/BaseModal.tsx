@@ -17,6 +17,9 @@ export const BaseModal = ({ title, children, isOpen, handleClose }: Props) => {
         className="fixed z-10 inset-0 overflow-y-auto"
         onClose={handleClose}
       >
+        <div class="w-full top-0 py-3 px-3 text-center text-white bg-violet-900">
+          Brought to you by <a class="underline font-bold" href="https://twitter.com/holyswiftpod" target="_blank" rel="noreferrer">Holy Swift Podcast</a>. Listen today on <a class="underline font-bold" href="https://podcasts.apple.com/us/podcast/holy-swift/id1167867578" target="_blank" rel="noreferrer">Apple Podcasts</a> and <a class="underline font-bold" href="https://open.spotify.com/show/7v7Uok5B0Pat4OtRwHxWbC" target="_blank" rel="noreferrer">Spotify</a>!
+        </div>
     <div className="flex items-center justify-center min-h-screen py-10 px-4 text-center sm:block sm:p-0">
           <Transition.Child
             as={Fragment}
