@@ -4,7 +4,7 @@ import './index.css'
 import App from './App'
 import reportWebVitals from './reportWebVitals'
 
-<div class="w-full top-0 py-3 px-3 text-center text-white bg-violet-900">Brought to you by podcastpotify</div>
+<div class="w-full top-0 py-3 px-3 text-center text-white bg-violet-900">Brought to you by podcastpotify
 
 ReactDOM.render(
   <React.StrictMode>
