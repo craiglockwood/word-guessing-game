@@ -219,7 +219,7 @@ function App() {
         variant="success"
       />
     </div>
-    </div>
+    
   )
 }
 
