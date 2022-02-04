@@ -150,11 +150,11 @@ function App() {
 
   return (
      <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
-      <div className="w-full top-0 py-3 px-3 text-center text-white bg-violet-900">Brought to you by the Knife Talk podcast  <a
-          href="https://github.com/hannahcode/GAME"
+      <div className="w-full top-0 py-3 px-3 text-center text-white bg-violet-900">Brought to you by the <a
+          href="https://www.makery.network/knifetalk"
           className="underline font-bold"
         >
-          check out the code here
+          Knife talk podcast
         </a></div>
       <div className="flex w-80 mx-auto items-center mb-8 mt-12">
         <h1 className="text-xl grow font-bold dark:text-white">{GAME_TITLE}</h1>
