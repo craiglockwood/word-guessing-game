@@ -147,14 +147,6 @@ function App() {
       }
     }
   }
-  
-  <script>
-info="<div class=&#34;w-full top-0 py-3 px-3 text-center text-white bg-violet-900&#34;>
-      Brought to you by <a class=&#34;underline font-bold&#34; href=&#34;https://www.makery.network/knifetalk&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;>Knife Talk Podcast</a>. Listen today on <a class=&#34;underline font-bold&#34; href=&#34;https://podcasts.apple.com/gb/podcast/knife-talk/id1225266774&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;>Apple Podcasts</a> and <a class=&#34;underline font-bold&#34; href=&#34;https://open.spotify.com/show/2wNNps3khlncj8CzMOeSI0?si=eb21bac04af7466e&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;>Spotify</a>!</div>
-    </div>"
-
-document.write(info)
-</script>
 
   return (
      <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
