@@ -1,4 +1,4 @@
-export const WORDS = [
+
   'blade',
   'sands',
   'knife',
@@ -14,4 +14,4 @@ export const WORDS = [
   'shave',
   'flame',
   'spark',
-]
+
