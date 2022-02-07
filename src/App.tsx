@@ -148,7 +148,7 @@ function App() {
   return (
      <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
    <div className="w-full top-0 py-3 px-3 text-center text-white bg-cyan-800">Brought to you by the <a
-          href="https://www.makery.network/knifetalk"
+          href="https://www.makery.network/show/knifetalk"
           className="underline font-bold"
         >
           Knife talk podcast
