@@ -9,9 +9,10 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
   return (
     <BaseModal title="About" isOpen={isOpen} handleClose={handleClose}>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        This is a knife themed clone of Wordle brought to you buy the folks at the Knife Talk podcast. The code is based around the open source version created by Hannah Park -{' '}
+        This is an open source version of the word guessing game we all know and
+        love -{' '}
         <a
-          href="https://github.com/hannahcode/GAME"
+          href="https://github.com/cwackerfuss/react-wordle"
           className="underline font-bold"
         >
           check out the code here
